@@ -20,13 +20,13 @@ If you're looking for an Android app that is both dependable and user-friendly, 
 ## &nbsp;GitHub Analytics:
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img src="https://github-readme-stats.vercel.app/api?username=D4rK7355608&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mihaicristiancondrea&show_icons=true"/>
 </a>
 <br>
 <a href="https://github.com/AVS1508">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4rK7355608"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihaicristiancondrea"/>
 </a>
 </p>
 
-__Privacy Policy__ [here](https://d4rk7355608.github.io/profile/#privacy-policy-apps).
-__Terms of Service__ [here](https://d4rk7355608.github.io/profile/#terms-of-service-apps).
+__Privacy Policy__ [here](https://mihaicristiancondrea.github.io/profile/#privacy-policy-apps).
+__Terms of Service__ [here](https://mihaicristiancondrea.github.io/profile/#terms-of-service-apps).
