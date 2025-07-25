@@ -28,5 +28,5 @@ If you're looking for an Android app that is both dependable and user-friendly, 
 </a>
 </p>
 
-__Privacy Policy__ [here](https://mihaicristiancondrea.github.io/profile/#privacy-policy-apps).
-__Terms of Service__ [here](https://mihaicristiancondrea.github.io/profile/#terms-of-service-apps).
+__Privacy Policy__ [here](https://mihaicristiancondrea.github.io/profile/#privacy-policy-end-user-software).
+__Terms of Service__ [here](https://mihaicristiancondrea.github.io/profile/#terms-of-service-end-user-software).
